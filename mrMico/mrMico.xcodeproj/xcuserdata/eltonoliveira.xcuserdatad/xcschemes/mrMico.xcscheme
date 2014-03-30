@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DE04A5218E86F8A00954C2F"
+               BlueprintIdentifier = "5DE04A9418E87BC700954C2F"
                BuildableName = "MrMico.app"
                BlueprintName = "MrMico"
-               ReferencedContainer = "container:MrMico.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DE04A7318E86F8A00954C2F"
-               BuildableName = "MrMicoTests.xctest"
-               BlueprintName = "MrMicoTests"
                ReferencedContainer = "container:MrMico.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DE04A7318E86F8A00954C2F"
+               BlueprintIdentifier = "5DE04AB518E87BC700954C2F"
                BuildableName = "MrMicoTests.xctest"
                BlueprintName = "MrMicoTests"
                ReferencedContainer = "container:MrMico.xcodeproj">
@@ -56,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DE04A5218E86F8A00954C2F"
+            BlueprintIdentifier = "5DE04A9418E87BC700954C2F"
             BuildableName = "MrMico.app"
             BlueprintName = "MrMico"
             ReferencedContainer = "container:MrMico.xcodeproj">
@@ -75,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DE04A5218E86F8A00954C2F"
+            BlueprintIdentifier = "5DE04A9418E87BC700954C2F"
             BuildableName = "MrMico.app"
             BlueprintName = "MrMico"
             ReferencedContainer = "container:MrMico.xcodeproj">
@@ -93,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DE04A5218E86F8A00954C2F"
+            BlueprintIdentifier = "5DE04A9418E87BC700954C2F"
             BuildableName = "MrMico.app"
             BlueprintName = "MrMico"
             ReferencedContainer = "container:MrMico.xcodeproj">
