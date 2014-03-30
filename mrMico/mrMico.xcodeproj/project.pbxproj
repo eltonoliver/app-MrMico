@@ -22,6 +22,7 @@
 		5DE04AC218E87BC700954C2F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04AC018E87BC700954C2F /* InfoPlist.strings */; };
 		5DE04AC418E87BC700954C2F /* MrMicoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DE04AC318E87BC700954C2F /* MrMicoTests.m */; };
 		5DE04ACE18E88B6F00954C2F /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04ACD18E88B6F00954C2F /* logo.png */; };
+		5DE04AD018E89BE800954C2F /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04ACF18E89BE800954C2F /* facebook.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		5DE04AC118E87BC700954C2F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5DE04AC318E87BC700954C2F /* MrMicoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MrMicoTests.m; sourceTree = "<group>"; };
 		5DE04ACD18E88B6F00954C2F /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../../../../Desktop/logo.png; sourceTree = "<group>"; };
+		5DE04ACF18E89BE800954C2F /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = facebook.png; path = ../../../../../Desktop/facebook.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 			children = (
 				5DE04ACD18E88B6F00954C2F /* logo.png */,
 				5DE04AA018E87BC700954C2F /* MrMico-Info.plist */,
+				5DE04ACF18E89BE800954C2F /* facebook.png */,
 				5DE04AA118E87BC700954C2F /* InfoPlist.strings */,
 				5DE04AA418E87BC700954C2F /* main.m */,
 				5DE04AA618E87BC700954C2F /* MrMico-Prefix.pch */,
@@ -234,6 +237,7 @@
 			files = (
 				5DE04ACE18E88B6F00954C2F /* logo.png in Resources */,
 				5DE04AB118E87BC700954C2F /* Images.xcassets in Resources */,
+				5DE04AD018E89BE800954C2F /* facebook.png in Resources */,
 				5DE04AA318E87BC700954C2F /* InfoPlist.strings in Resources */,
 				5DE04AAC18E87BC700954C2F /* Main.storyboard in Resources */,
 			);
