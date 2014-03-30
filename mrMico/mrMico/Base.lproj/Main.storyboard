@@ -41,7 +41,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eqd-of-tRy">
                                 <rect key="frame" x="73" y="367" width="190" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.29164884690579485" green="0.71310985331632648" blue="0.34764418263643287" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.27050406099955815" green="0.67277184311224492" blue="0.31902699365969545" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Entrar">
                                     <color key="titleColor" red="0.99215692280000001" green="0.99607849120000003" blue="0.99607849120000003" alpha="1" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.99215692280000001" green="0.99607849120000003" blue="0.99607849120000003" alpha="1" colorSpace="deviceRGB"/>
