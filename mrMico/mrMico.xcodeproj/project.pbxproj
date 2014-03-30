@@ -21,6 +21,7 @@
 		5DE04ABA18E87BC700954C2F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04A9C18E87BC700954C2F /* UIKit.framework */; };
 		5DE04AC218E87BC700954C2F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04AC018E87BC700954C2F /* InfoPlist.strings */; };
 		5DE04AC418E87BC700954C2F /* MrMicoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DE04AC318E87BC700954C2F /* MrMicoTests.m */; };
+		5DE04ACE18E88B6F00954C2F /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04ACD18E88B6F00954C2F /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		5DE04ABF18E87BC700954C2F /* MrMicoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MrMicoTests-Info.plist"; sourceTree = "<group>"; };
 		5DE04AC118E87BC700954C2F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5DE04AC318E87BC700954C2F /* MrMicoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MrMicoTests.m; sourceTree = "<group>"; };
+		5DE04ACD18E88B6F00954C2F /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../../../../Desktop/logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		5DE04A9F18E87BC700954C2F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5DE04ACD18E88B6F00954C2F /* logo.png */,
 				5DE04AA018E87BC700954C2F /* MrMico-Info.plist */,
 				5DE04AA118E87BC700954C2F /* InfoPlist.strings */,
 				5DE04AA418E87BC700954C2F /* main.m */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DE04ACE18E88B6F00954C2F /* logo.png in Resources */,
 				5DE04AB118E87BC700954C2F /* Images.xcassets in Resources */,
 				5DE04AA318E87BC700954C2F /* InfoPlist.strings in Resources */,
 				5DE04AAC18E87BC700954C2F /* Main.storyboard in Resources */,
