@@ -1,18 +1,18 @@
 //
-//  mrMicoTests.m
-//  mrMicoTests
+//  MrMicoTests.m
+//  MrMicoTests
 //
-//  Created by Elton Oliveira on 29/03/14.
+//  Created by Elton Oliveira on 30/03/14.
 //  Copyright (c) 2014 Elton Oliveira. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface mrMicoTests : XCTestCase
+@interface MrMicoTests : XCTestCase
 
 @end
 
-@implementation mrMicoTests
+@implementation MrMicoTests
 
 - (void)setUp
 {

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>mrMico.xcscheme</key>
+		<key>MrMico.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5DE049CD18E7CB6900954C2F</key>
+		<key>5DE04A1118E86DA700954C2F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5DE049F118E7CB6900954C2F</key>
+		<key>5DE04A3218E86DA700954C2F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
