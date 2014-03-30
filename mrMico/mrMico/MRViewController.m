@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  MRViewController.m
 //  MrMico
 //
 //  Created by Elton Oliveira on 30/03/14.
 //  Copyright (c) 2014 Elton Oliveira. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "MRViewController.h"
 
-@interface ViewController ()
+@interface MRViewController ()
 
 @end
 
-@implementation ViewController
+@implementation MRViewController
 
 - (void)viewDidLoad
 {

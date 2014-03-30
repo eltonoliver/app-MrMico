@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  MRViewController.h
 //  MrMico
 //
 //  Created by Elton Oliveira on 30/03/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface MRViewController : UIViewController
 
 @end
