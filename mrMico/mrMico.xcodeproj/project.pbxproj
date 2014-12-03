@@ -73,6 +73,16 @@
 		5D7233211A2F8ABA002D2187 /* cutaneahf.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233201A2F8ABA002D2187 /* cutaneahf.png */; };
 		5D7233231A2F8B53002D2187 /* cutaneavcv.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233221A2F8B53002D2187 /* cutaneavcv.png */; };
 		5D7233251A2F8B7E002D2187 /* cutaneavcv.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233241A2F8B7E002D2187 /* cutaneavcv.png */; };
+		5D72332A1A2F8D84002D2187 /* imgtinea3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233261A2F8D84002D2187 /* imgtinea3.png */; };
+		5D72332B1A2F8D84002D2187 /* imgtinea222.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233271A2F8D84002D2187 /* imgtinea222.png */; };
+		5D72332C1A2F8D84002D2187 /* imtinea1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233281A2F8D84002D2187 /* imtinea1.png */; };
+		5D72332D1A2F8D84002D2187 /* tineaimgh.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233291A2F8D84002D2187 /* tineaimgh.png */; };
+		5D7233321A2F8E50002D2187 /* imgtinea3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72332E1A2F8E50002D2187 /* imgtinea3.png */; };
+		5D7233331A2F8E50002D2187 /* imgtinea222.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72332F1A2F8E50002D2187 /* imgtinea222.png */; };
+		5D7233341A2F8E50002D2187 /* imtinea1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233301A2F8E50002D2187 /* imtinea1.png */; };
+		5D7233351A2F8E50002D2187 /* tineaimgh.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233311A2F8E50002D2187 /* tineaimgh.png */; };
+		5D7233381A2F9270002D2187 /* cultanea555.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233361A2F9270002D2187 /* cultanea555.png */; };
+		5D7233391A2F9270002D2187 /* cultanea76767007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233371A2F9270002D2187 /* cultanea76767007.png */; };
 		5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E931A2E612800B2CAE9 /* oportunistas.png */; };
 		5D962E961A2E671900B2CAE9 /* cutanea.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E951A2E671900B2CAE9 /* cutanea.png */; };
 		5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E971A2E6A0900B2CAE9 /* profunda.png */; };
@@ -88,7 +98,7 @@
 		5DE04AA318E87BC700954C2F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04AA118E87BC700954C2F /* InfoPlist.strings */; };
 		5DE04AA518E87BC700954C2F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DE04AA418E87BC700954C2F /* main.m */; };
 		5DE04AA918E87BC700954C2F /* MRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DE04AA818E87BC700954C2F /* MRAppDelegate.m */; };
-		5DE04AAC18E87BC700954C2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04AAA18E87BC700954C2F /* Main.storyboard */; };
+		5DE04AAC18E87BC700954C2F /* imgtinea3.png.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04AAA18E87BC700954C2F /* imgtinea3.png.storyboard */; };
 		5DE04AAF18E87BC700954C2F /* MRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DE04AAE18E87BC700954C2F /* MRViewController.m */; };
 		5DE04AB818E87BC700954C2F /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04AB718E87BC700954C2F /* XCTest.framework */; };
 		5DE04AB918E87BC700954C2F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04A9818E87BC700954C2F /* Foundation.framework */; };
@@ -177,6 +187,16 @@
 		5D7233201A2F8ABA002D2187 /* cutaneahf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneahf.png; path = ../../../../../Pictures/cutaneahf.png; sourceTree = "<group>"; };
 		5D7233221A2F8B53002D2187 /* cutaneavcv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneavcv.png; path = ../../../../../Pictures/cutaneavcv.png; sourceTree = "<group>"; };
 		5D7233241A2F8B7E002D2187 /* cutaneavcv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneavcv.png; path = ../../../../../Pictures/cutaneavcv.png; sourceTree = "<group>"; };
+		5D7233261A2F8D84002D2187 /* imgtinea3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imgtinea3.png; path = "../../../../../Pictures/tinea ungueum/imgtinea3.png"; sourceTree = "<group>"; };
+		5D7233271A2F8D84002D2187 /* imgtinea222.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imgtinea222.png; path = "../../../../../Pictures/tinea ungueum/imgtinea222.png"; sourceTree = "<group>"; };
+		5D7233281A2F8D84002D2187 /* imtinea1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imtinea1.png; path = "../../../../../Pictures/tinea ungueum/imtinea1.png"; sourceTree = "<group>"; };
+		5D7233291A2F8D84002D2187 /* tineaimgh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tineaimgh.png; path = "../../../../../Pictures/tinea ungueum/tineaimgh.png"; sourceTree = "<group>"; };
+		5D72332E1A2F8E50002D2187 /* imgtinea3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imgtinea3.png; path = "../../../../../Pictures/tinea ungueum/imgtinea3.png"; sourceTree = "<group>"; };
+		5D72332F1A2F8E50002D2187 /* imgtinea222.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imgtinea222.png; path = "../../../../../Pictures/tinea ungueum/imgtinea222.png"; sourceTree = "<group>"; };
+		5D7233301A2F8E50002D2187 /* imtinea1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imtinea1.png; path = "../../../../../Pictures/tinea ungueum/imtinea1.png"; sourceTree = "<group>"; };
+		5D7233311A2F8E50002D2187 /* tineaimgh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tineaimgh.png; path = "../../../../../Pictures/tinea ungueum/tineaimgh.png"; sourceTree = "<group>"; };
+		5D7233361A2F9270002D2187 /* cultanea555.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cultanea555.png; path = "../../../../../Pictures/tinea ungueum/cultanea555.png"; sourceTree = "<group>"; };
+		5D7233371A2F9270002D2187 /* cultanea76767007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cultanea76767007.png; path = "../../../../../Pictures/tinea ungueum/cultanea76767007.png"; sourceTree = "<group>"; };
 		5D962E931A2E612800B2CAE9 /* oportunistas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oportunistas.png; path = ../../../../../Pictures/oportunistas.png; sourceTree = "<group>"; };
 		5D962E951A2E671900B2CAE9 /* cutanea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanea.png; path = ../../../../../Pictures/cutanea.png; sourceTree = "<group>"; };
 		5D962E971A2E6A0900B2CAE9 /* profunda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda.png; path = ../../../../../Pictures/profunda.png; sourceTree = "<group>"; };
@@ -196,7 +216,7 @@
 		5DE04AA618E87BC700954C2F /* MrMico-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MrMico-Prefix.pch"; sourceTree = "<group>"; };
 		5DE04AA718E87BC700954C2F /* MRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MRAppDelegate.h; sourceTree = "<group>"; };
 		5DE04AA818E87BC700954C2F /* MRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MRAppDelegate.m; sourceTree = "<group>"; };
-		5DE04AAB18E87BC700954C2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5DE04AAB18E87BC700954C2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/imgtinea3.png.storyboard; sourceTree = "<group>"; };
 		5DE04AAD18E87BC700954C2F /* MRViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MRViewController.h; sourceTree = "<group>"; };
 		5DE04AAE18E87BC700954C2F /* MRViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MRViewController.m; sourceTree = "<group>"; };
 		5DE04AB018E87BC700954C2F /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = /Users/eltonoliveira/Desktop/logo.png; sourceTree = "<absolute>"; };
@@ -269,7 +289,7 @@
 			children = (
 				5DE04AA718E87BC700954C2F /* MRAppDelegate.h */,
 				5DE04AA818E87BC700954C2F /* MRAppDelegate.m */,
-				5DE04AAA18E87BC700954C2F /* Main.storyboard */,
+				5DE04AAA18E87BC700954C2F /* imgtinea3.png.storyboard */,
 				5DE04AAD18E87BC700954C2F /* MRViewController.h */,
 				5DE04AAE18E87BC700954C2F /* MRViewController.m */,
 				5DE04AB018E87BC700954C2F /* logo.png */,
@@ -292,6 +312,12 @@
 				5D7232B21A2EEF31002D2187 /* vagina.png */,
 				5D7232B41A2EEF65002D2187 /* cripto.png */,
 				5D7232B61A2EF629002D2187 /* op2.png */,
+				5D7233261A2F8D84002D2187 /* imgtinea3.png */,
+				5D7233271A2F8D84002D2187 /* imgtinea222.png */,
+				5D7233281A2F8D84002D2187 /* imtinea1.png */,
+				5D7233361A2F9270002D2187 /* cultanea555.png */,
+				5D7233371A2F9270002D2187 /* cultanea76767007.png */,
+				5D7233291A2F8D84002D2187 /* tineaimgh.png */,
 				5D7232F81A2F7A91002D2187 /* cutanea2.png */,
 				5D7233161A2F8579002D2187 /* CUTANEA545536.png */,
 				5D7233221A2F8B53002D2187 /* cutaneavcv.png */,
@@ -347,6 +373,10 @@
 				5D7232BE1A2EF919002D2187 /* img4.png */,
 				5D7232BF1A2EF919002D2187 /* img5.png */,
 				5D7232BB1A2EF8EF002D2187 /* img2.png */,
+				5D72332E1A2F8E50002D2187 /* imgtinea3.png */,
+				5D72332F1A2F8E50002D2187 /* imgtinea222.png */,
+				5D7233301A2F8E50002D2187 /* imtinea1.png */,
+				5D7233311A2F8E50002D2187 /* tineaimgh.png */,
 				5D7232AC1A2EEEB0002D2187 /* oportunistas4.png */,
 				5D7232AD1A2EEEB0002D2187 /* oportunistasimg1.png */,
 				5D7232A81A2EE990002D2187 /* map.png */,
@@ -492,17 +522,21 @@
 				5D7232F11A2F6AC5002D2187 /* subcutaneas434.png in Resources */,
 				5D7233231A2F8B53002D2187 /* cutaneavcv.png in Resources */,
 				5D7232C71A2EFDCA002D2187 /* cand2.png in Resources */,
+				5D7233331A2F8E50002D2187 /* imgtinea222.png in Resources */,
+				5D72332B1A2F8D84002D2187 /* imgtinea222.png in Resources */,
 				5D7232F51A2F6AC5002D2187 /* subcutanes007.png in Resources */,
 				5D7233171A2F8579002D2187 /* CUTANEA545536.png in Resources */,
 				5D962EA61A2E735A00B2CAE9 /* editphoto.png in Resources */,
 				5DE04ACE18E88B6F00954C2F /* logo.png in Resources */,
 				5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */,
 				5D7232C11A2EF919002D2187 /* img5.png in Resources */,
+				5D72332A1A2F8D84002D2187 /* imgtinea3.png in Resources */,
 				5D72330F1A2F817E002D2187 /* cutanea666.png in Resources */,
 				5D7232CF1A2F0175002D2187 /* crip.png in Resources */,
 				5DE04AD218E8AAFE00954C2F /* login.png in Resources */,
 				5D6825671A2E4D07007310E2 /* Images-3.xcassets in Resources */,
 				5D7233071A2F7C78002D2187 /* cutaneaghgf.png in Resources */,
+				5D7233391A2F9270002D2187 /* cultanea76767007.png in Resources */,
 				5D72330A1A2F7C78002D2187 /* cutaneaijk.png in Resources */,
 				5DE04AD018E89BE800954C2F /* facebook.png in Resources */,
 				5D72330D1A2F7C78002D2187 /* cutanefdfd.png in Resources */,
@@ -510,6 +544,7 @@
 				5D7233091A2F7C78002D2187 /* cutaneahpj.png in Resources */,
 				5D7233061A2F7C78002D2187 /* cutaneadfdf.png in Resources */,
 				5D7233081A2F7C78002D2187 /* cutaneahfdh.png in Resources */,
+				5D72332D1A2F8D84002D2187 /* tineaimgh.png in Resources */,
 				5D7232FB1A2F7A91002D2187 /* cutaneajpx.png in Resources */,
 				5D7233251A2F8B7E002D2187 /* cutaneavcv.png in Resources */,
 				5D7232EE1A2F6AC5002D2187 /* subcutaneas1.png in Resources */,
@@ -529,18 +564,23 @@
 				5D7232F31A2F6AC5002D2187 /* subcutaneas888.png in Resources */,
 				5D7232B81A2EF629002D2187 /* op2.png in Resources */,
 				5D7232F21A2F6AC5002D2187 /* subcutaneas656.png in Resources */,
+				5D7233321A2F8E50002D2187 /* imgtinea3.png in Resources */,
 				5D7233191A2F88A6002D2187 /* tineapedis323.png in Resources */,
 				5D7232E11A2F5E92002D2187 /* superficial444.png in Resources */,
 				5D7232FA1A2F7A91002D2187 /* cutanea2.png in Resources */,
 				5DE04AA318E87BC700954C2F /* InfoPlist.strings in Resources */,
 				5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */,
+				5D72332C1A2F8D84002D2187 /* imtinea1.png in Resources */,
+				5D7233381A2F9270002D2187 /* cultanea555.png in Resources */,
 				5D7233131A2F83B4002D2187 /* cutaneas666666.png in Resources */,
+				5D7233341A2F8E50002D2187 /* imtinea1.png in Resources */,
 				5D72330C1A2F7C78002D2187 /* cutaneaxpto33.png in Resources */,
 				5D962E9E1A2E6D9200B2CAE9 /* facebookcon.png in Resources */,
 				5D72331F1A2F88CA002D2187 /* cutaneakjk.png in Resources */,
 				5D7232CB1A2EFF32002D2187 /* cripto3.png in Resources */,
 				5D7232A71A2EE1EE002D2187 /* oportunistas2.png in Resources */,
-				5DE04AAC18E87BC700954C2F /* Main.storyboard in Resources */,
+				5DE04AAC18E87BC700954C2F /* imgtinea3.png.storyboard in Resources */,
+				5D7233351A2F8E50002D2187 /* tineaimgh.png in Resources */,
 				5D7232A91A2EE990002D2187 /* map.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -593,12 +633,12 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		5DE04AAA18E87BC700954C2F /* Main.storyboard */ = {
+		5DE04AAA18E87BC700954C2F /* imgtinea3.png.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				5DE04AAB18E87BC700954C2F /* Base */,
 			);
-			name = Main.storyboard;
+			name = imgtinea3.png.storyboard;
 			sourceTree = "<group>";
 		};
 		5DE04AC018E87BC700954C2F /* InfoPlist.strings */ = {
