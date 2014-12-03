@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D6825651A2BD808007310E2 /* 1417409710_camera-64.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D6825641A2BD808007310E2 /* 1417409710_camera-64.png */; };
+		5D6825671A2E4D07007310E2 /* Images-3.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D6825661A2E4D07007310E2 /* Images-3.xcassets */; };
+		5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E931A2E612800B2CAE9 /* oportunistas.png */; };
+		5D962E961A2E671900B2CAE9 /* cutanea.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E951A2E671900B2CAE9 /* cutanea.png */; };
+		5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E971A2E6A0900B2CAE9 /* profunda.png */; };
+		5D962E9A1A2E6C5800B2CAE9 /* subcutanea.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E991A2E6C5800B2CAE9 /* subcutanea.png */; };
+		5D962E9E1A2E6D9200B2CAE9 /* facebookcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E9D1A2E6D9200B2CAE9 /* facebookcon.png */; };
+		5D962EA01A2E711100B2CAE9 /* superficiais.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E9F1A2E711100B2CAE9 /* superficiais.png */; };
+		5D962EA21A2E725500B2CAE9 /* perfiluser.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D962EA11A2E725500B2CAE9 /* perfiluser.jpg */; };
+		5D962EA41A2E728F00B2CAE9 /* editperfil.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962EA31A2E728F00B2CAE9 /* editperfil.png */; };
+		5D962EA61A2E735A00B2CAE9 /* editphoto.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962EA51A2E735A00B2CAE9 /* editphoto.png */; };
 		5DE04A9918E87BC700954C2F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04A9818E87BC700954C2F /* Foundation.framework */; };
 		5DE04A9B18E87BC700954C2F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04A9A18E87BC700954C2F /* CoreGraphics.framework */; };
 		5DE04A9D18E87BC700954C2F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04A9C18E87BC700954C2F /* UIKit.framework */; };
@@ -15,7 +26,6 @@
 		5DE04AA918E87BC700954C2F /* MRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DE04AA818E87BC700954C2F /* MRAppDelegate.m */; };
 		5DE04AAC18E87BC700954C2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04AAA18E87BC700954C2F /* Main.storyboard */; };
 		5DE04AAF18E87BC700954C2F /* MRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DE04AAE18E87BC700954C2F /* MRViewController.m */; };
-		5DE04AB118E87BC700954C2F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DE04AB018E87BC700954C2F /* Images.xcassets */; };
 		5DE04AB818E87BC700954C2F /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04AB718E87BC700954C2F /* XCTest.framework */; };
 		5DE04AB918E87BC700954C2F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04A9818E87BC700954C2F /* Foundation.framework */; };
 		5DE04ABA18E87BC700954C2F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DE04A9C18E87BC700954C2F /* UIKit.framework */; };
@@ -37,6 +47,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5D6825641A2BD808007310E2 /* 1417409710_camera-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "1417409710_camera-64.png"; path = "../../../../../Pictures/1417409710_camera-64.png"; sourceTree = "<group>"; };
+		5D6825661A2E4D07007310E2 /* Images-3.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-3.xcassets"; sourceTree = "<group>"; };
+		5D962E931A2E612800B2CAE9 /* oportunistas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oportunistas.png; path = ../../../../../Pictures/oportunistas.png; sourceTree = "<group>"; };
+		5D962E951A2E671900B2CAE9 /* cutanea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanea.png; path = ../../../../../Pictures/cutanea.png; sourceTree = "<group>"; };
+		5D962E971A2E6A0900B2CAE9 /* profunda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda.png; path = ../../../../../Pictures/profunda.png; sourceTree = "<group>"; };
+		5D962E991A2E6C5800B2CAE9 /* subcutanea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = subcutanea.png; path = ../../../../../Pictures/subcutanea.png; sourceTree = "<group>"; };
+		5D962E9D1A2E6D9200B2CAE9 /* facebookcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = facebookcon.png; path = ../../../../../Downloads/facebookcon.png; sourceTree = "<group>"; };
+		5D962E9F1A2E711100B2CAE9 /* superficiais.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = superficiais.png; path = ../../../../../Pictures/superficiais.png; sourceTree = "<group>"; };
+		5D962EA11A2E725500B2CAE9 /* perfiluser.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = perfiluser.jpg; path = ../../../../../Downloads/perfiluser.jpg; sourceTree = "<group>"; };
+		5D962EA31A2E728F00B2CAE9 /* editperfil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = editperfil.png; path = ../../../../../Downloads/editperfil.png; sourceTree = "<group>"; };
+		5D962EA51A2E735A00B2CAE9 /* editphoto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = editphoto.png; path = ../../../../../Downloads/editphoto.png; sourceTree = "<group>"; };
 		5DE04A9518E87BC700954C2F /* MrMico.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MrMico.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE04A9818E87BC700954C2F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5DE04A9A18E87BC700954C2F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -50,7 +71,7 @@
 		5DE04AAB18E87BC700954C2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5DE04AAD18E87BC700954C2F /* MRViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MRViewController.h; sourceTree = "<group>"; };
 		5DE04AAE18E87BC700954C2F /* MRViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MRViewController.m; sourceTree = "<group>"; };
-		5DE04AB018E87BC700954C2F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		5DE04AB018E87BC700954C2F /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = /Users/eltonoliveira/Desktop/logo.png; sourceTree = "<absolute>"; };
 		5DE04AB618E87BC700954C2F /* MrMicoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MrMicoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE04AB718E87BC700954C2F /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		5DE04ABF18E87BC700954C2F /* MrMicoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MrMicoTests-Info.plist"; sourceTree = "<group>"; };
@@ -123,7 +144,8 @@
 				5DE04AAA18E87BC700954C2F /* Main.storyboard */,
 				5DE04AAD18E87BC700954C2F /* MRViewController.h */,
 				5DE04AAE18E87BC700954C2F /* MRViewController.m */,
-				5DE04AB018E87BC700954C2F /* Images.xcassets */,
+				5DE04AB018E87BC700954C2F /* logo.png */,
+				5D6825661A2E4D07007310E2 /* Images-3.xcassets */,
 				5DE04A9F18E87BC700954C2F /* Supporting Files */,
 			);
 			path = MrMico;
@@ -134,7 +156,17 @@
 			children = (
 				5DE04ACD18E88B6F00954C2F /* logo.png */,
 				5DE04AA018E87BC700954C2F /* MrMico-Info.plist */,
+				5D962E971A2E6A0900B2CAE9 /* profunda.png */,
+				5D962E931A2E612800B2CAE9 /* oportunistas.png */,
+				5D962E9F1A2E711100B2CAE9 /* superficiais.png */,
+				5D962E951A2E671900B2CAE9 /* cutanea.png */,
+				5D962EA51A2E735A00B2CAE9 /* editphoto.png */,
+				5D962EA11A2E725500B2CAE9 /* perfiluser.jpg */,
+				5D962E9D1A2E6D9200B2CAE9 /* facebookcon.png */,
+				5D962EA31A2E728F00B2CAE9 /* editperfil.png */,
+				5D962E991A2E6C5800B2CAE9 /* subcutanea.png */,
 				5DE04AD118E8AAFE00954C2F /* login.png */,
+				5D6825641A2BD808007310E2 /* 1417409710_camera-64.png */,
 				5DE04ACF18E89BE800954C2F /* facebook.png */,
 				5DE04AA118E87BC700954C2F /* InfoPlist.strings */,
 				5DE04AA418E87BC700954C2F /* main.m */,
@@ -206,7 +238,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = MR;
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Elton Oliveira";
 				TargetAttributes = {
 					5DE04AB518E87BC700954C2F = {
@@ -238,11 +270,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D962EA01A2E711100B2CAE9 /* superficiais.png in Resources */,
+				5D6825651A2BD808007310E2 /* 1417409710_camera-64.png in Resources */,
+				5D962EA61A2E735A00B2CAE9 /* editphoto.png in Resources */,
 				5DE04ACE18E88B6F00954C2F /* logo.png in Resources */,
+				5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */,
 				5DE04AD218E8AAFE00954C2F /* login.png in Resources */,
-				5DE04AB118E87BC700954C2F /* Images.xcassets in Resources */,
+				5D6825671A2E4D07007310E2 /* Images-3.xcassets in Resources */,
 				5DE04AD018E89BE800954C2F /* facebook.png in Resources */,
+				5D962E961A2E671900B2CAE9 /* cutanea.png in Resources */,
+				5D962EA41A2E728F00B2CAE9 /* editperfil.png in Resources */,
+				5D962EA21A2E725500B2CAE9 /* perfiluser.jpg in Resources */,
+				5D962E9A1A2E6C5800B2CAE9 /* subcutanea.png in Resources */,
 				5DE04AA318E87BC700954C2F /* InfoPlist.strings in Resources */,
+				5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */,
+				5D962E9E1A2E6D9200B2CAE9 /* facebookcon.png in Resources */,
 				5DE04AAC18E87BC700954C2F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -346,7 +388,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -378,7 +420,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -387,8 +429,6 @@
 		5DE04AC818E87BC700954C2F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MrMico/MrMico-Prefix.pch";
 				INFOPLIST_FILE = "MrMico/MrMico-Info.plist";
@@ -401,8 +441,6 @@
 		5DE04AC918E87BC700954C2F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MrMico/MrMico-Prefix.pch";
 				INFOPLIST_FILE = "MrMico/MrMico-Info.plist";

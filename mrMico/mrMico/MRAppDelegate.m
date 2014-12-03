@@ -2,17 +2,25 @@
 //  MRAppDelegate.m
 //  MrMico
 //
-//  Created by Elton Oliveira on 30/03/14.
-//  Copyright (c) 2014 Elton Oliveira. All rights reserved.
+//  Created by Elaine Noronha on 30/03/14.
+//  Copyright (c) 2014 Elane Noronha. All rights reserved.
 //
 
 #import "MRAppDelegate.h"
+#import "MRViewController.h"
 
 @implementation MRAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+ 
+    
+    
+    
+    
+    
     return YES;
 }
 							
@@ -42,5 +50,7 @@
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
+
+
 
 @end

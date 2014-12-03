@@ -12,22 +12,34 @@
 	<dict>
 		<key>0F541678-4A93-432D-8735-10C9094CB3E5</key>
 		<string>https://github.com/eltonoliver/app-MrMico.git</string>
+		<key>ED62EF63D19B135743E62A405035605A0FC80203</key>
+		<string>https://github.com/eltonoliver/app-MrMico.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MrMico.xcodeproj/project.xcworkspace</string>
+	<string>MrMico/MrMico.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0F541678-4A93-432D-8735-10C9094CB3E5</key>
-		<string>../..</string>
+		<string>../../../../MrMico</string>
+		<key>ED62EF63D19B135743E62A405035605A0FC80203</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/eltonoliver/app-MrMico.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0F541678-4A93-432D-8735-10C9094CB3E5</string>
+	<string>ED62EF63D19B135743E62A405035605A0FC80203</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED62EF63D19B135743E62A405035605A0FC80203</string>
+			<key>IDESourceControlWCCName</key>
+			<string>app</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
