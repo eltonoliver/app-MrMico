@@ -83,6 +83,29 @@
 		5D7233351A2F8E50002D2187 /* tineaimgh.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233311A2F8E50002D2187 /* tineaimgh.png */; };
 		5D7233381A2F9270002D2187 /* cultanea555.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233361A2F9270002D2187 /* cultanea555.png */; };
 		5D7233391A2F9270002D2187 /* cultanea76767007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233371A2F9270002D2187 /* cultanea76767007.png */; };
+		5D7233501A2F9591002D2187 /* profunda1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72333A1A2F9591002D2187 /* profunda1.png */; };
+		5D7233511A2F9591002D2187 /* profunda2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72333B1A2F9591002D2187 /* profunda2.png */; };
+		5D7233521A2F9591002D2187 /* profunda3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72333C1A2F9591002D2187 /* profunda3.png */; };
+		5D7233531A2F9591002D2187 /* profunda4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72333D1A2F9591002D2187 /* profunda4.png */; };
+		5D7233541A2F9591002D2187 /* profunda6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72333E1A2F9591002D2187 /* profunda6.png */; };
+		5D7233551A2F9591002D2187 /* profunda77.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72333F1A2F9591002D2187 /* profunda77.png */; };
+		5D7233561A2F9591002D2187 /* profunda99.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233401A2F9591002D2187 /* profunda99.png */; };
+		5D7233571A2F9591002D2187 /* profunda445.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233411A2F9591002D2187 /* profunda445.png */; };
+		5D7233581A2F9591002D2187 /* profunda545.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233421A2F9591002D2187 /* profunda545.png */; };
+		5D7233591A2F9591002D2187 /* profunda4434.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233431A2F9591002D2187 /* profunda4434.png */; };
+		5D72335A1A2F9591002D2187 /* profunda5566.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233441A2F9591002D2187 /* profunda5566.png */; };
+		5D72335B1A2F9591002D2187 /* profunda8876.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233451A2F9591002D2187 /* profunda8876.png */; };
+		5D72335C1A2F9591002D2187 /* profunda64646.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233461A2F9591002D2187 /* profunda64646.png */; };
+		5D72335D1A2F9591002D2187 /* profunda75757.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233471A2F9591002D2187 /* profunda75757.png */; };
+		5D72335E1A2F9591002D2187 /* profunda96969.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233481A2F9591002D2187 /* profunda96969.png */; };
+		5D72335F1A2F9591002D2187 /* profundafg5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233491A2F9591002D2187 /* profundafg5.png */; };
+		5D7233601A2F9591002D2187 /* profundagfd.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72334A1A2F9591002D2187 /* profundagfd.png */; };
+		5D7233611A2F9591002D2187 /* profundagft.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72334B1A2F9591002D2187 /* profundagft.png */; };
+		5D7233621A2F9591002D2187 /* profundagght.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72334C1A2F9591002D2187 /* profundagght.png */; };
+		5D7233631A2F9591002D2187 /* profundahpg.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72334D1A2F9591002D2187 /* profundahpg.png */; };
+		5D7233641A2F9591002D2187 /* profundajhj.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72334E1A2F9591002D2187 /* profundajhj.png */; };
+		5D7233651A2F9591002D2187 /* profundakvg.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72334F1A2F9591002D2187 /* profundakvg.png */; };
+		5D7233671A2F9EBB002D2187 /* profunda4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233661A2F9EBB002D2187 /* profunda4.png */; };
 		5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E931A2E612800B2CAE9 /* oportunistas.png */; };
 		5D962E961A2E671900B2CAE9 /* cutanea.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E951A2E671900B2CAE9 /* cutanea.png */; };
 		5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E971A2E6A0900B2CAE9 /* profunda.png */; };
@@ -197,6 +220,29 @@
 		5D7233311A2F8E50002D2187 /* tineaimgh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tineaimgh.png; path = "../../../../../Pictures/tinea ungueum/tineaimgh.png"; sourceTree = "<group>"; };
 		5D7233361A2F9270002D2187 /* cultanea555.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cultanea555.png; path = "../../../../../Pictures/tinea ungueum/cultanea555.png"; sourceTree = "<group>"; };
 		5D7233371A2F9270002D2187 /* cultanea76767007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cultanea76767007.png; path = "../../../../../Pictures/tinea ungueum/cultanea76767007.png"; sourceTree = "<group>"; };
+		5D72333A1A2F9591002D2187 /* profunda1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda1.png; path = ../../../../../Pictures/profunda/profunda1.png; sourceTree = "<group>"; };
+		5D72333B1A2F9591002D2187 /* profunda2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda2.png; path = ../../../../../Pictures/profunda/profunda2.png; sourceTree = "<group>"; };
+		5D72333C1A2F9591002D2187 /* profunda3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda3.png; path = ../../../../../Pictures/profunda/profunda3.png; sourceTree = "<group>"; };
+		5D72333D1A2F9591002D2187 /* profunda4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda4.png; path = ../../../../../Pictures/profunda/profunda4.png; sourceTree = "<group>"; };
+		5D72333E1A2F9591002D2187 /* profunda6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda6.png; path = ../../../../../Pictures/profunda/profunda6.png; sourceTree = "<group>"; };
+		5D72333F1A2F9591002D2187 /* profunda77.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda77.png; path = ../../../../../Pictures/profunda/profunda77.png; sourceTree = "<group>"; };
+		5D7233401A2F9591002D2187 /* profunda99.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda99.png; path = ../../../../../Pictures/profunda/profunda99.png; sourceTree = "<group>"; };
+		5D7233411A2F9591002D2187 /* profunda445.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda445.png; path = ../../../../../Pictures/profunda/profunda445.png; sourceTree = "<group>"; };
+		5D7233421A2F9591002D2187 /* profunda545.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda545.png; path = ../../../../../Pictures/profunda/profunda545.png; sourceTree = "<group>"; };
+		5D7233431A2F9591002D2187 /* profunda4434.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda4434.png; path = ../../../../../Pictures/profunda/profunda4434.png; sourceTree = "<group>"; };
+		5D7233441A2F9591002D2187 /* profunda5566.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda5566.png; path = ../../../../../Pictures/profunda/profunda5566.png; sourceTree = "<group>"; };
+		5D7233451A2F9591002D2187 /* profunda8876.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda8876.png; path = ../../../../../Pictures/profunda/profunda8876.png; sourceTree = "<group>"; };
+		5D7233461A2F9591002D2187 /* profunda64646.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda64646.png; path = ../../../../../Pictures/profunda/profunda64646.png; sourceTree = "<group>"; };
+		5D7233471A2F9591002D2187 /* profunda75757.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda75757.png; path = ../../../../../Pictures/profunda/profunda75757.png; sourceTree = "<group>"; };
+		5D7233481A2F9591002D2187 /* profunda96969.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda96969.png; path = ../../../../../Pictures/profunda/profunda96969.png; sourceTree = "<group>"; };
+		5D7233491A2F9591002D2187 /* profundafg5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profundafg5.png; path = ../../../../../Pictures/profunda/profundafg5.png; sourceTree = "<group>"; };
+		5D72334A1A2F9591002D2187 /* profundagfd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profundagfd.png; path = ../../../../../Pictures/profunda/profundagfd.png; sourceTree = "<group>"; };
+		5D72334B1A2F9591002D2187 /* profundagft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profundagft.png; path = ../../../../../Pictures/profunda/profundagft.png; sourceTree = "<group>"; };
+		5D72334C1A2F9591002D2187 /* profundagght.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profundagght.png; path = ../../../../../Pictures/profunda/profundagght.png; sourceTree = "<group>"; };
+		5D72334D1A2F9591002D2187 /* profundahpg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profundahpg.png; path = ../../../../../Pictures/profunda/profundahpg.png; sourceTree = "<group>"; };
+		5D72334E1A2F9591002D2187 /* profundajhj.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profundajhj.png; path = ../../../../../Pictures/profunda/profundajhj.png; sourceTree = "<group>"; };
+		5D72334F1A2F9591002D2187 /* profundakvg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profundakvg.png; path = ../../../../../Pictures/profunda/profundakvg.png; sourceTree = "<group>"; };
+		5D7233661A2F9EBB002D2187 /* profunda4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda4.png; path = ../../../../../Pictures/profunda/profunda4.png; sourceTree = "<group>"; };
 		5D962E931A2E612800B2CAE9 /* oportunistas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oportunistas.png; path = ../../../../../Pictures/oportunistas.png; sourceTree = "<group>"; };
 		5D962E951A2E671900B2CAE9 /* cutanea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanea.png; path = ../../../../../Pictures/cutanea.png; sourceTree = "<group>"; };
 		5D962E971A2E6A0900B2CAE9 /* profunda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda.png; path = ../../../../../Pictures/profunda.png; sourceTree = "<group>"; };
@@ -314,6 +360,29 @@
 				5D7232B61A2EF629002D2187 /* op2.png */,
 				5D7233261A2F8D84002D2187 /* imgtinea3.png */,
 				5D7233271A2F8D84002D2187 /* imgtinea222.png */,
+				5D72333A1A2F9591002D2187 /* profunda1.png */,
+				5D72333B1A2F9591002D2187 /* profunda2.png */,
+				5D72333C1A2F9591002D2187 /* profunda3.png */,
+				5D72333D1A2F9591002D2187 /* profunda4.png */,
+				5D72333E1A2F9591002D2187 /* profunda6.png */,
+				5D72333F1A2F9591002D2187 /* profunda77.png */,
+				5D7233401A2F9591002D2187 /* profunda99.png */,
+				5D7233411A2F9591002D2187 /* profunda445.png */,
+				5D7233421A2F9591002D2187 /* profunda545.png */,
+				5D7233431A2F9591002D2187 /* profunda4434.png */,
+				5D7233441A2F9591002D2187 /* profunda5566.png */,
+				5D7233451A2F9591002D2187 /* profunda8876.png */,
+				5D7233461A2F9591002D2187 /* profunda64646.png */,
+				5D7233471A2F9591002D2187 /* profunda75757.png */,
+				5D7233481A2F9591002D2187 /* profunda96969.png */,
+				5D7233491A2F9591002D2187 /* profundafg5.png */,
+				5D72334A1A2F9591002D2187 /* profundagfd.png */,
+				5D7233661A2F9EBB002D2187 /* profunda4.png */,
+				5D72334B1A2F9591002D2187 /* profundagft.png */,
+				5D72334C1A2F9591002D2187 /* profundagght.png */,
+				5D72334D1A2F9591002D2187 /* profundahpg.png */,
+				5D72334E1A2F9591002D2187 /* profundajhj.png */,
+				5D72334F1A2F9591002D2187 /* profundakvg.png */,
 				5D7233281A2F8D84002D2187 /* imtinea1.png */,
 				5D7233361A2F9270002D2187 /* cultanea555.png */,
 				5D7233371A2F9270002D2187 /* cultanea76767007.png */,
@@ -493,39 +562,52 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D7232DC1A2F046A002D2187 /* superficial56.png in Resources */,
+				5D7233641A2F9591002D2187 /* profundajhj.png in Resources */,
 				5D7232F01A2F6AC5002D2187 /* subcutaneas90.png in Resources */,
 				5D7232B11A2EEEB0002D2187 /* oportunistasimg1.png in Resources */,
 				5D7232E31A2F5FF8002D2187 /* superficial3333.png in Resources */,
 				5D7232CD1A2EFF42002D2187 /* cripto2.png in Resources */,
 				5D72331B1A2F88AE002D2187 /* tineapedis32323.png in Resources */,
+				5D7233611A2F9591002D2187 /* profundagft.png in Resources */,
 				5D962EA01A2E711100B2CAE9 /* superficiais.png in Resources */,
+				5D7233501A2F9591002D2187 /* profunda1.png in Resources */,
 				5D7232DB1A2F046A002D2187 /* superficial4.png in Resources */,
 				5D7232DE1A2F046A002D2187 /* superficial678.png in Resources */,
+				5D7233581A2F9591002D2187 /* profunda545.png in Resources */,
 				5D7232BC1A2EF8EF002D2187 /* img1.png in Resources */,
 				5D7232DA1A2F046A002D2187 /* superficial2.png in Resources */,
+				5D7233571A2F9591002D2187 /* profunda445.png in Resources */,
 				5D7232C61A2EFDCA002D2187 /* cand1.png in Resources */,
 				5D7232C01A2EF919002D2187 /* img4.png in Resources */,
 				5D7232D11A2F0245002D2187 /* cripto33.png in Resources */,
 				5D7232DF1A2F046A002D2187 /* superficial777.png in Resources */,
+				5D72335D1A2F9591002D2187 /* profunda75757.png in Resources */,
 				5D7232B91A2EF629002D2187 /* op3.png in Resources */,
 				5D7232C91A2EFF23002D2187 /* cripto.png in Resources */,
 				5D6825651A2BD808007310E2 /* 1417409710_camera-64.png in Resources */,
+				5D7233531A2F9591002D2187 /* profunda4.png in Resources */,
+				5D7233651A2F9591002D2187 /* profundakvg.png in Resources */,
 				5D7232ED1A2F6AC5002D2187 /* subcutaneas.png in Resources */,
 				5D7233051A2F7C78002D2187 /* cutanea2.png in Resources */,
 				5D7233111A2F834D002D2187 /* cutaneahjg.png in Resources */,
+				5D7233591A2F9591002D2187 /* profunda4434.png in Resources */,
 				5D7233211A2F8ABA002D2187 /* cutaneahf.png in Resources */,
 				5D7232C31A2EFD97002D2187 /* cand1.png in Resources */,
 				5D72330B1A2F7C78002D2187 /* cutaneajpx.png in Resources */,
 				5D7232AE1A2EEEB0002D2187 /* opornutinas3.png in Resources */,
 				5D7232EF1A2F6AC5002D2187 /* subcutaneas6.png in Resources */,
 				5D7232BD1A2EF8EF002D2187 /* img2.png in Resources */,
+				5D7233621A2F9591002D2187 /* profundagght.png in Resources */,
+				5D72335F1A2F9591002D2187 /* profundafg5.png in Resources */,
 				5D7232F11A2F6AC5002D2187 /* subcutaneas434.png in Resources */,
 				5D7233231A2F8B53002D2187 /* cutaneavcv.png in Resources */,
 				5D7232C71A2EFDCA002D2187 /* cand2.png in Resources */,
+				5D72335C1A2F9591002D2187 /* profunda64646.png in Resources */,
 				5D7233331A2F8E50002D2187 /* imgtinea222.png in Resources */,
 				5D72332B1A2F8D84002D2187 /* imgtinea222.png in Resources */,
 				5D7232F51A2F6AC5002D2187 /* subcutanes007.png in Resources */,
 				5D7233171A2F8579002D2187 /* CUTANEA545536.png in Resources */,
+				5D7233671A2F9EBB002D2187 /* profunda4.png in Resources */,
 				5D962EA61A2E735A00B2CAE9 /* editphoto.png in Resources */,
 				5DE04ACE18E88B6F00954C2F /* logo.png in Resources */,
 				5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */,
@@ -533,6 +615,7 @@
 				5D72332A1A2F8D84002D2187 /* imgtinea3.png in Resources */,
 				5D72330F1A2F817E002D2187 /* cutanea666.png in Resources */,
 				5D7232CF1A2F0175002D2187 /* crip.png in Resources */,
+				5D72335E1A2F9591002D2187 /* profunda96969.png in Resources */,
 				5DE04AD218E8AAFE00954C2F /* login.png in Resources */,
 				5D6825671A2E4D07007310E2 /* Images-3.xcassets in Resources */,
 				5D7233071A2F7C78002D2187 /* cutaneaghgf.png in Resources */,
@@ -549,13 +632,16 @@
 				5D7233251A2F8B7E002D2187 /* cutaneavcv.png in Resources */,
 				5D7232EE1A2F6AC5002D2187 /* subcutaneas1.png in Resources */,
 				5D7232B01A2EEEB0002D2187 /* oportunistas4.png in Resources */,
+				5D7233521A2F9591002D2187 /* profunda3.png in Resources */,
 				5D7232DD1A2F046A002D2187 /* superficial343.png in Resources */,
 				5D7232F71A2F7308002D2187 /* sub434.png in Resources */,
+				5D72335B1A2F9591002D2187 /* profunda8876.png in Resources */,
 				5D962EA41A2E728F00B2CAE9 /* editperfil.png in Resources */,
 				5D7232B31A2EEF31002D2187 /* vagina.png in Resources */,
 				5D7232B51A2EEF65002D2187 /* cripto.png in Resources */,
 				5D962EA21A2E725500B2CAE9 /* perfiluser.jpg in Resources */,
 				5D962E9A1A2E6C5800B2CAE9 /* subcutanea.png in Resources */,
+				5D7233511A2F9591002D2187 /* profunda2.png in Resources */,
 				5D7232F41A2F6AC5002D2187 /* subcutaneas7676.png in Resources */,
 				5D7232D91A2F046A002D2187 /* superficiais.png in Resources */,
 				5D7232AF1A2EEEB0002D2187 /* oportunistas2.png in Resources */,
@@ -566,22 +652,28 @@
 				5D7232F21A2F6AC5002D2187 /* subcutaneas656.png in Resources */,
 				5D7233321A2F8E50002D2187 /* imgtinea3.png in Resources */,
 				5D7233191A2F88A6002D2187 /* tineapedis323.png in Resources */,
+				5D7233551A2F9591002D2187 /* profunda77.png in Resources */,
+				5D72335A1A2F9591002D2187 /* profunda5566.png in Resources */,
 				5D7232E11A2F5E92002D2187 /* superficial444.png in Resources */,
 				5D7232FA1A2F7A91002D2187 /* cutanea2.png in Resources */,
 				5DE04AA318E87BC700954C2F /* InfoPlist.strings in Resources */,
 				5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */,
 				5D72332C1A2F8D84002D2187 /* imtinea1.png in Resources */,
 				5D7233381A2F9270002D2187 /* cultanea555.png in Resources */,
+				5D7233601A2F9591002D2187 /* profundagfd.png in Resources */,
 				5D7233131A2F83B4002D2187 /* cutaneas666666.png in Resources */,
 				5D7233341A2F8E50002D2187 /* imtinea1.png in Resources */,
 				5D72330C1A2F7C78002D2187 /* cutaneaxpto33.png in Resources */,
+				5D7233631A2F9591002D2187 /* profundahpg.png in Resources */,
 				5D962E9E1A2E6D9200B2CAE9 /* facebookcon.png in Resources */,
 				5D72331F1A2F88CA002D2187 /* cutaneakjk.png in Resources */,
 				5D7232CB1A2EFF32002D2187 /* cripto3.png in Resources */,
+				5D7233541A2F9591002D2187 /* profunda6.png in Resources */,
 				5D7232A71A2EE1EE002D2187 /* oportunistas2.png in Resources */,
 				5DE04AAC18E87BC700954C2F /* imgtinea3.png.storyboard in Resources */,
 				5D7233351A2F8E50002D2187 /* tineaimgh.png in Resources */,
 				5D7232A91A2EE990002D2187 /* map.png in Resources */,
+				5D7233561A2F9591002D2187 /* profunda99.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
