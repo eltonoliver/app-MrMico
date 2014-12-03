@@ -50,6 +50,29 @@
 		5D7232F41A2F6AC5002D2187 /* subcutaneas7676.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232EB1A2F6AC5002D2187 /* subcutaneas7676.png */; };
 		5D7232F51A2F6AC5002D2187 /* subcutanes007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232EC1A2F6AC5002D2187 /* subcutanes007.png */; };
 		5D7232F71A2F7308002D2187 /* sub434.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232F61A2F7308002D2187 /* sub434.png */; };
+		5D7232FA1A2F7A91002D2187 /* cutanea2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232F81A2F7A91002D2187 /* cutanea2.png */; };
+		5D7232FB1A2F7A91002D2187 /* cutaneajpx.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232F91A2F7A91002D2187 /* cutaneajpx.png */; };
+		5D7233051A2F7C78002D2187 /* cutanea2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232FC1A2F7C78002D2187 /* cutanea2.png */; };
+		5D7233061A2F7C78002D2187 /* cutaneadfdf.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232FD1A2F7C78002D2187 /* cutaneadfdf.png */; };
+		5D7233071A2F7C78002D2187 /* cutaneaghgf.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232FE1A2F7C78002D2187 /* cutaneaghgf.png */; };
+		5D7233081A2F7C78002D2187 /* cutaneahfdh.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7232FF1A2F7C78002D2187 /* cutaneahfdh.png */; };
+		5D7233091A2F7C78002D2187 /* cutaneahpj.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233001A2F7C78002D2187 /* cutaneahpj.png */; };
+		5D72330A1A2F7C78002D2187 /* cutaneaijk.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233011A2F7C78002D2187 /* cutaneaijk.png */; };
+		5D72330B1A2F7C78002D2187 /* cutaneajpx.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233021A2F7C78002D2187 /* cutaneajpx.png */; };
+		5D72330C1A2F7C78002D2187 /* cutaneaxpto33.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233031A2F7C78002D2187 /* cutaneaxpto33.png */; };
+		5D72330D1A2F7C78002D2187 /* cutanefdfd.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233041A2F7C78002D2187 /* cutanefdfd.png */; };
+		5D72330F1A2F817E002D2187 /* cutanea666.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72330E1A2F817E002D2187 /* cutanea666.png */; };
+		5D7233111A2F834D002D2187 /* cutaneahjg.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233101A2F834D002D2187 /* cutaneahjg.png */; };
+		5D7233131A2F83B4002D2187 /* cutaneas666666.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233121A2F83B4002D2187 /* cutaneas666666.png */; };
+		5D7233151A2F83BE002D2187 /* cutaneas6666666666.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233141A2F83BE002D2187 /* cutaneas6666666666.png */; };
+		5D7233171A2F8579002D2187 /* CUTANEA545536.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233161A2F8579002D2187 /* CUTANEA545536.png */; };
+		5D7233191A2F88A6002D2187 /* tineapedis323.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233181A2F88A6002D2187 /* tineapedis323.png */; };
+		5D72331B1A2F88AE002D2187 /* tineapedis32323.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72331A1A2F88AE002D2187 /* tineapedis32323.png */; };
+		5D72331D1A2F88C1002D2187 /* cutaneaddf.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72331C1A2F88C1002D2187 /* cutaneaddf.png */; };
+		5D72331F1A2F88CA002D2187 /* cutaneakjk.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D72331E1A2F88CA002D2187 /* cutaneakjk.png */; };
+		5D7233211A2F8ABA002D2187 /* cutaneahf.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233201A2F8ABA002D2187 /* cutaneahf.png */; };
+		5D7233231A2F8B53002D2187 /* cutaneavcv.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233221A2F8B53002D2187 /* cutaneavcv.png */; };
+		5D7233251A2F8B7E002D2187 /* cutaneavcv.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D7233241A2F8B7E002D2187 /* cutaneavcv.png */; };
 		5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E931A2E612800B2CAE9 /* oportunistas.png */; };
 		5D962E961A2E671900B2CAE9 /* cutanea.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E951A2E671900B2CAE9 /* cutanea.png */; };
 		5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D962E971A2E6A0900B2CAE9 /* profunda.png */; };
@@ -131,6 +154,29 @@
 		5D7232EB1A2F6AC5002D2187 /* subcutaneas7676.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = subcutaneas7676.png; path = ../../../../../Pictures/subcutaneas/subcutaneas7676.png; sourceTree = "<group>"; };
 		5D7232EC1A2F6AC5002D2187 /* subcutanes007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = subcutanes007.png; path = ../../../../../Pictures/subcutaneas/subcutanes007.png; sourceTree = "<group>"; };
 		5D7232F61A2F7308002D2187 /* sub434.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sub434.png; path = ../../../../../Pictures/subcutaneas/sub434.png; sourceTree = "<group>"; };
+		5D7232F81A2F7A91002D2187 /* cutanea2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanea2.png; path = ../../../../../Pictures/Cutanea/cutanea2.png; sourceTree = "<group>"; };
+		5D7232F91A2F7A91002D2187 /* cutaneajpx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneajpx.png; path = ../../../../../Pictures/Cutanea/cutaneajpx.png; sourceTree = "<group>"; };
+		5D7232FC1A2F7C78002D2187 /* cutanea2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanea2.png; path = ../../../../../Pictures/Cutanea/cutanea2.png; sourceTree = "<group>"; };
+		5D7232FD1A2F7C78002D2187 /* cutaneadfdf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneadfdf.png; path = ../../../../../Pictures/Cutanea/cutaneadfdf.png; sourceTree = "<group>"; };
+		5D7232FE1A2F7C78002D2187 /* cutaneaghgf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneaghgf.png; path = ../../../../../Pictures/Cutanea/cutaneaghgf.png; sourceTree = "<group>"; };
+		5D7232FF1A2F7C78002D2187 /* cutaneahfdh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneahfdh.png; path = ../../../../../Pictures/Cutanea/cutaneahfdh.png; sourceTree = "<group>"; };
+		5D7233001A2F7C78002D2187 /* cutaneahpj.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneahpj.png; path = ../../../../../Pictures/Cutanea/cutaneahpj.png; sourceTree = "<group>"; };
+		5D7233011A2F7C78002D2187 /* cutaneaijk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneaijk.png; path = ../../../../../Pictures/Cutanea/cutaneaijk.png; sourceTree = "<group>"; };
+		5D7233021A2F7C78002D2187 /* cutaneajpx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneajpx.png; path = ../../../../../Pictures/Cutanea/cutaneajpx.png; sourceTree = "<group>"; };
+		5D7233031A2F7C78002D2187 /* cutaneaxpto33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneaxpto33.png; path = ../../../../../Pictures/Cutanea/cutaneaxpto33.png; sourceTree = "<group>"; };
+		5D7233041A2F7C78002D2187 /* cutanefdfd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanefdfd.png; path = ../../../../../Pictures/Cutanea/cutanefdfd.png; sourceTree = "<group>"; };
+		5D72330E1A2F817E002D2187 /* cutanea666.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanea666.png; path = ../../../../../Pictures/Cutanea/cutanea666.png; sourceTree = "<group>"; };
+		5D7233101A2F834D002D2187 /* cutaneahjg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneahjg.png; path = ../../../../../Pictures/cutaneahjg.png; sourceTree = "<group>"; };
+		5D7233121A2F83B4002D2187 /* cutaneas666666.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneas666666.png; path = ../../../../../Pictures/Cutanea/cutaneas666666.png; sourceTree = "<group>"; };
+		5D7233141A2F83BE002D2187 /* cutaneas6666666666.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneas6666666666.png; path = ../../../../../Pictures/Cutanea/cutaneas6666666666.png; sourceTree = "<group>"; };
+		5D7233161A2F8579002D2187 /* CUTANEA545536.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CUTANEA545536.png; path = ../../../../../Pictures/Cutanea/CUTANEA545536.png; sourceTree = "<group>"; };
+		5D7233181A2F88A6002D2187 /* tineapedis323.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tineapedis323.png; path = ../../../../../Pictures/Cutanea/tineapedis323.png; sourceTree = "<group>"; };
+		5D72331A1A2F88AE002D2187 /* tineapedis32323.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tineapedis32323.png; path = ../../../../../Pictures/Cutanea/tineapedis32323.png; sourceTree = "<group>"; };
+		5D72331C1A2F88C1002D2187 /* cutaneaddf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneaddf.png; path = ../../../../../Pictures/cutaneaddf.png; sourceTree = "<group>"; };
+		5D72331E1A2F88CA002D2187 /* cutaneakjk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneakjk.png; path = ../../../../../Pictures/cutaneakjk.png; sourceTree = "<group>"; };
+		5D7233201A2F8ABA002D2187 /* cutaneahf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneahf.png; path = ../../../../../Pictures/cutaneahf.png; sourceTree = "<group>"; };
+		5D7233221A2F8B53002D2187 /* cutaneavcv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneavcv.png; path = ../../../../../Pictures/cutaneavcv.png; sourceTree = "<group>"; };
+		5D7233241A2F8B7E002D2187 /* cutaneavcv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutaneavcv.png; path = ../../../../../Pictures/cutaneavcv.png; sourceTree = "<group>"; };
 		5D962E931A2E612800B2CAE9 /* oportunistas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oportunistas.png; path = ../../../../../Pictures/oportunistas.png; sourceTree = "<group>"; };
 		5D962E951A2E671900B2CAE9 /* cutanea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cutanea.png; path = ../../../../../Pictures/cutanea.png; sourceTree = "<group>"; };
 		5D962E971A2E6A0900B2CAE9 /* profunda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profunda.png; path = ../../../../../Pictures/profunda.png; sourceTree = "<group>"; };
@@ -246,6 +292,18 @@
 				5D7232B21A2EEF31002D2187 /* vagina.png */,
 				5D7232B41A2EEF65002D2187 /* cripto.png */,
 				5D7232B61A2EF629002D2187 /* op2.png */,
+				5D7232F81A2F7A91002D2187 /* cutanea2.png */,
+				5D7233161A2F8579002D2187 /* CUTANEA545536.png */,
+				5D7233221A2F8B53002D2187 /* cutaneavcv.png */,
+				5D72331E1A2F88CA002D2187 /* cutaneakjk.png */,
+				5D7233201A2F8ABA002D2187 /* cutaneahf.png */,
+				5D7233141A2F83BE002D2187 /* cutaneas6666666666.png */,
+				5D72331C1A2F88C1002D2187 /* cutaneaddf.png */,
+				5D7233121A2F83B4002D2187 /* cutaneas666666.png */,
+				5D7233241A2F8B7E002D2187 /* cutaneavcv.png */,
+				5D7232F91A2F7A91002D2187 /* cutaneajpx.png */,
+				5D7233181A2F88A6002D2187 /* tineapedis323.png */,
+				5D72331A1A2F88AE002D2187 /* tineapedis32323.png */,
 				5D7232E01A2F5E92002D2187 /* superficial444.png */,
 				5D7232B71A2EF629002D2187 /* op3.png */,
 				5D7232E21A2F5FF8002D2187 /* superficial3333.png */,
@@ -253,13 +311,24 @@
 				5D7232CE1A2F0175002D2187 /* crip.png */,
 				5D7232E41A2F6AC5002D2187 /* subcutaneas.png */,
 				5D7232E51A2F6AC5002D2187 /* subcutaneas1.png */,
+				5D7232FC1A2F7C78002D2187 /* cutanea2.png */,
+				5D7232FD1A2F7C78002D2187 /* cutaneadfdf.png */,
+				5D7232FE1A2F7C78002D2187 /* cutaneaghgf.png */,
+				5D7232FF1A2F7C78002D2187 /* cutaneahfdh.png */,
+				5D7233001A2F7C78002D2187 /* cutaneahpj.png */,
+				5D7233011A2F7C78002D2187 /* cutaneaijk.png */,
+				5D7233021A2F7C78002D2187 /* cutaneajpx.png */,
+				5D7233031A2F7C78002D2187 /* cutaneaxpto33.png */,
+				5D7233041A2F7C78002D2187 /* cutanefdfd.png */,
 				5D7232E61A2F6AC5002D2187 /* subcutaneas6.png */,
 				5D7232E71A2F6AC5002D2187 /* subcutaneas90.png */,
 				5D7232E81A2F6AC5002D2187 /* subcutaneas434.png */,
 				5D7232E91A2F6AC5002D2187 /* subcutaneas656.png */,
 				5D7232EA1A2F6AC5002D2187 /* subcutaneas888.png */,
+				5D72330E1A2F817E002D2187 /* cutanea666.png */,
 				5D7232EB1A2F6AC5002D2187 /* subcutaneas7676.png */,
 				5D7232EC1A2F6AC5002D2187 /* subcutanes007.png */,
+				5D7233101A2F834D002D2187 /* cutaneahjg.png */,
 				5D7232C41A2EFDCA002D2187 /* cand1.png */,
 				5D7232D21A2F046A002D2187 /* superficiais.png */,
 				5D7232D31A2F046A002D2187 /* superficial2.png */,
@@ -398,6 +467,7 @@
 				5D7232B11A2EEEB0002D2187 /* oportunistasimg1.png in Resources */,
 				5D7232E31A2F5FF8002D2187 /* superficial3333.png in Resources */,
 				5D7232CD1A2EFF42002D2187 /* cripto2.png in Resources */,
+				5D72331B1A2F88AE002D2187 /* tineapedis32323.png in Resources */,
 				5D962EA01A2E711100B2CAE9 /* superficiais.png in Resources */,
 				5D7232DB1A2F046A002D2187 /* superficial4.png in Resources */,
 				5D7232DE1A2F046A002D2187 /* superficial678.png in Resources */,
@@ -411,22 +481,37 @@
 				5D7232C91A2EFF23002D2187 /* cripto.png in Resources */,
 				5D6825651A2BD808007310E2 /* 1417409710_camera-64.png in Resources */,
 				5D7232ED1A2F6AC5002D2187 /* subcutaneas.png in Resources */,
+				5D7233051A2F7C78002D2187 /* cutanea2.png in Resources */,
+				5D7233111A2F834D002D2187 /* cutaneahjg.png in Resources */,
+				5D7233211A2F8ABA002D2187 /* cutaneahf.png in Resources */,
 				5D7232C31A2EFD97002D2187 /* cand1.png in Resources */,
+				5D72330B1A2F7C78002D2187 /* cutaneajpx.png in Resources */,
 				5D7232AE1A2EEEB0002D2187 /* opornutinas3.png in Resources */,
 				5D7232EF1A2F6AC5002D2187 /* subcutaneas6.png in Resources */,
 				5D7232BD1A2EF8EF002D2187 /* img2.png in Resources */,
 				5D7232F11A2F6AC5002D2187 /* subcutaneas434.png in Resources */,
+				5D7233231A2F8B53002D2187 /* cutaneavcv.png in Resources */,
 				5D7232C71A2EFDCA002D2187 /* cand2.png in Resources */,
 				5D7232F51A2F6AC5002D2187 /* subcutanes007.png in Resources */,
+				5D7233171A2F8579002D2187 /* CUTANEA545536.png in Resources */,
 				5D962EA61A2E735A00B2CAE9 /* editphoto.png in Resources */,
 				5DE04ACE18E88B6F00954C2F /* logo.png in Resources */,
 				5D962E941A2E612800B2CAE9 /* oportunistas.png in Resources */,
 				5D7232C11A2EF919002D2187 /* img5.png in Resources */,
+				5D72330F1A2F817E002D2187 /* cutanea666.png in Resources */,
 				5D7232CF1A2F0175002D2187 /* crip.png in Resources */,
 				5DE04AD218E8AAFE00954C2F /* login.png in Resources */,
 				5D6825671A2E4D07007310E2 /* Images-3.xcassets in Resources */,
+				5D7233071A2F7C78002D2187 /* cutaneaghgf.png in Resources */,
+				5D72330A1A2F7C78002D2187 /* cutaneaijk.png in Resources */,
 				5DE04AD018E89BE800954C2F /* facebook.png in Resources */,
+				5D72330D1A2F7C78002D2187 /* cutanefdfd.png in Resources */,
 				5D962E961A2E671900B2CAE9 /* cutanea.png in Resources */,
+				5D7233091A2F7C78002D2187 /* cutaneahpj.png in Resources */,
+				5D7233061A2F7C78002D2187 /* cutaneadfdf.png in Resources */,
+				5D7233081A2F7C78002D2187 /* cutaneahfdh.png in Resources */,
+				5D7232FB1A2F7A91002D2187 /* cutaneajpx.png in Resources */,
+				5D7233251A2F8B7E002D2187 /* cutaneavcv.png in Resources */,
 				5D7232EE1A2F6AC5002D2187 /* subcutaneas1.png in Resources */,
 				5D7232B01A2EEEB0002D2187 /* oportunistas4.png in Resources */,
 				5D7232DD1A2F046A002D2187 /* superficial343.png in Resources */,
@@ -439,13 +524,20 @@
 				5D7232F41A2F6AC5002D2187 /* subcutaneas7676.png in Resources */,
 				5D7232D91A2F046A002D2187 /* superficiais.png in Resources */,
 				5D7232AF1A2EEEB0002D2187 /* oportunistas2.png in Resources */,
+				5D7233151A2F83BE002D2187 /* cutaneas6666666666.png in Resources */,
+				5D72331D1A2F88C1002D2187 /* cutaneaddf.png in Resources */,
 				5D7232F31A2F6AC5002D2187 /* subcutaneas888.png in Resources */,
 				5D7232B81A2EF629002D2187 /* op2.png in Resources */,
 				5D7232F21A2F6AC5002D2187 /* subcutaneas656.png in Resources */,
+				5D7233191A2F88A6002D2187 /* tineapedis323.png in Resources */,
 				5D7232E11A2F5E92002D2187 /* superficial444.png in Resources */,
+				5D7232FA1A2F7A91002D2187 /* cutanea2.png in Resources */,
 				5DE04AA318E87BC700954C2F /* InfoPlist.strings in Resources */,
 				5D962E981A2E6A0900B2CAE9 /* profunda.png in Resources */,
+				5D7233131A2F83B4002D2187 /* cutaneas666666.png in Resources */,
+				5D72330C1A2F7C78002D2187 /* cutaneaxpto33.png in Resources */,
 				5D962E9E1A2E6D9200B2CAE9 /* facebookcon.png in Resources */,
+				5D72331F1A2F88CA002D2187 /* cutaneakjk.png in Resources */,
 				5D7232CB1A2EFF32002D2187 /* cripto3.png in Resources */,
 				5D7232A71A2EE1EE002D2187 /* oportunistas2.png in Resources */,
 				5DE04AAC18E87BC700954C2F /* Main.storyboard in Resources */,
